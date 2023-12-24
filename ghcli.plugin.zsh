@@ -11,3 +11,5 @@ alias ghcomment="gh issue comment"
 # Repos
 alias ghnewpub="git init; git add .; git commit -m \"Initial commit\"; gh repo create --source=. --public --push"
 alias ghnewpriv"git init; git add .; git commit -m \"Initial commit\"; gh repo create --source=. --private --push"
+
+alias newpythonlib="cookiecutter gh:Florents-Tselai/python-lib"

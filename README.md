@@ -17,6 +17,11 @@ alias ghnewpub="git init; git add .; git commit -m \"Initial commit\"; gh repo c
 alias ghnewpriv"git init; git add .; git commit -m \"Initial commit\"; gh repo create --source=. --private --push"
 ```
 
+### Misc
+```bash
+newpythonlib="cookiecutter gh:Florents-Tselai/python-lib"
+```
+
 ## Installation
 
 If you use `omz`:
