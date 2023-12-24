@@ -13,3 +13,4 @@ alias ghnewpub="git init; git add .; git commit -m \"Initial commit\"; gh repo c
 alias ghnewpriv"git init; git add .; git commit -m \"Initial commit\"; gh repo create --source=. --private --push"
 
 alias newpythonlib="cookiecutter gh:Florents-Tselai/python-lib"
+alias newpgext="cookiecutter gh:Florents-Tselai/cookiecutter-postgres-extension"

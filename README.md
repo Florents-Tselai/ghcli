@@ -20,6 +20,7 @@ alias ghnewpriv"git init; git add .; git commit -m \"Initial commit\"; gh repo c
 ### Misc
 ```bash
 newpythonlib="cookiecutter gh:Florents-Tselai/python-lib"
+newpgext="cookiecutter gh:Florents-Tselai/cookiecutter-postgres-extension"
 ```
 
 ## Installation
